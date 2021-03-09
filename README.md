@@ -1,1 +1,3 @@
-Unix netstat tool practice
+```
+./myNetstat {filter}
+```
